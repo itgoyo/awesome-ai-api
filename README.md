@@ -5,6 +5,17 @@
 | 名称 | 官网 | 描述 | 支持模型 |
 |------|------|------|----------|
 | Momoapi | [官网](https://sub.momoapi.top/register?aff=6CGEMF8MYUVC) | MomoAPI 是一个面向国内开发者的 AI 模型 API 聚合网关，用一个密钥即可直连调用 Claude、GPT、Gemini 等主流模型，按量计费、无需分别申请各家账号。| Claude、GPT、Gemini等等
+| Claude-API | [官网](https://claude-api.org/register?aff=CYHY6EV8RCYM) | 聚合 Claude / GPT / Gemini 三家模型，Anthropic 原生协议 + OpenAI 兼容协议双端点。国内直连，Claude Code / Cursor / Codex CLI 等工具改一行环境变量即可接入。注册送 $10 体验金。 | Claude, GPT, Gemini |
+| Relay AI | [官网](https://relayai.asia/register?aff=8B4B4UDGE943) | ChatGPT / Codex API 网关，上游 ChatGPT Pro 账号全部自持。国内直连，支付宝充值，余额永不过期，请求响应不做持久化记录。注册送 $10。 | GPT, Codex |
+| 公益中转站 | [官网](https://api.baobu.xyz/register?aff=D7AYJ8NYGK2Y) | 个人自用中转站开放共享，Claude Pro 反代 API，注册送额度。适合应急使用。 | Claude, GPT |
+| 合租巴士 | [官网](https://hezu.ink/sign-up?aff=QWr8) | 专为 Claude Code / Cursor / Codex 设计的 API 聚合平台，支持多模型统一调用，OpenAI 兼容接口。评论送 $5 测试额度。 | Claude, GPT, Gemini, DeepSeek |
+| WellAPI | [官网](https://wellapi.ai/register?aff=ZIgz) | 500+ 种大模型，按量计费，1 元起充。覆盖 OpenAI / Anthropic / xAI 等 11+ 厂商，支持支付宝/微信/USDT。 | Claude, GPT, Gemini, DeepSeek +7 |
+| ZooAPI | [官网](https://manage.zooapi.ai/?ref=pk-XvsLHlYT9lIoVgtRLuPuOVQGQIkNz) | Codex 场景推荐中转站，专注编程辅助场景。 | Codex, Claude |
+| API000 | [官网](https://api000.com/register?aff=wnDN) | 按量付费中转站，支持主流模型，价格适中。 | GPT, Claude |
+| ByteCat | [官网](https://www.bytecatcode.org/register?aff=7BTq) | 2026 年 1 月上线，统一 AI 模型聚合分发平台（API Hub），支持多模型协议转换。风评两极分化，低价通道部分来自逆向接口。 | Claude, GPT, Gemini |
+| Unity2.ai | [官网](https://unity2.ai/register?ref=wLwxWP4P) | 多模型中转站，组合订阅上线，Claude 和 GPT 共享平台总额度。V2EX 专属满 100 减 10。 | Claude, GPT |
+| HongMaCC | [官网](https://hongmacc.com/?ref=HONGMACC-23005E42) | 企业级 AI 中转平台，国内直连 Claude Code / Codex / Gemini CLI，包月+按量双模式。 | Claude, Codex, Gemini |
+| 蒲云 AI | [官网](https://ai.tracup.com/register?aff=lgRD) | 蒲公英开发者服务平台旗下，官方直连非第三方中转。支持 40+ 供应商，完全兼容官方 SDK，按量计费 1 元起。支持对公转账开票。 | Claude, GPT, Gemini, DeepSeek +36 |
 | PackyCode | [官网](https://www.packyapi.com/register?aff=Loeq) | 24年底开始活跃，国内较早针对Claude Code优化的供应商。与开源社区互动频繁，客服响应快，目前已是多家中转站的上游。 | Claude-3.5-Sonnet, Claude-3-Opus, GPT-4o, Gemini-1.5-Pro +1 |
 | 云雾AI | [官网](https://yunwu.ai/register?aff=GSxc) | 老牌中转站，支持模型很多，覆盖Claude/GPT/Gemini/DeepSeek/国产模型。上新模型快，面向企业，稳定性好，可开票。 | Claude-3.5-Sonnet, Claude-3-Opus, GPT-4o, Gemini-1.5-Pro +5 |
 | Ekan8 | [官网](https://api.ekan8.com/register?aff=wLf9) | 只支持Claude Opus和Gemini。Opus4.6 ¥3.5(进)/17.5(出)，按次收费每次0.15元。是「酒馆」类站点里质量价格比最高的。 | Claude-3-Opus, Gemini |
