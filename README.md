@@ -7,6 +7,7 @@
 | Momoapi | [官网](https://sub.momoapi.top/register?aff=6CGEMF8MYUVC) | MomoAPI 是一个面向国内开发者的 AI 模型 API 聚合网关，用一个密钥即可直连调用 Claude、GPT、Gemini 等主流模型，按量计费、无需分别申请各家账号。| Claude、GPT、Gemini等等
 | Claude-API | [官网](https://claude-api.org/register?aff=CYHY6EV8RCYM) | 聚合 Claude / GPT / Gemini 三家模型，Anthropic 原生协议 + OpenAI 兼容协议双端点。国内直连，Claude Code / Cursor / Codex CLI 等工具改一行环境变量即可接入。注册送 $10 体验金。 | Claude, GPT, Gemini |
 | Relay AI | [官网](https://relayai.asia/register?aff=8B4B4UDGE943) | ChatGPT / Codex API 网关，上游 ChatGPT Pro 账号全部自持。国内直连，支付宝充值，余额永不过期，请求响应不做持久化记录。注册送 $10。 | GPT, Codex |
+| Tokens Forge | [官网](https://tokens-forge.com) | 面向开发者的 AI Token 与 OpenAI 兼容 API 平台，支持 GPT、Claude、Gemini 与普通路由模型，提供 API Key、用量账本、官方 Credit、普通路由钱包和 AI 研究员工作流。 | GPT, Claude, Gemini |
 | 公益中转站 | [官网](https://api.baobu.xyz/register?aff=D7AYJ8NYGK2Y) | 个人自用中转站开放共享，Claude Pro 反代 API，注册送额度。适合应急使用。 | Claude, GPT |
 | 合租巴士 | [官网](https://hezu.ink/sign-up?aff=QWr8) | 专为 Claude Code / Cursor / Codex 设计的 API 聚合平台，支持多模型统一调用，OpenAI 兼容接口。评论送 $5 测试额度。 | Claude, GPT, Gemini, DeepSeek |
 | WellAPI | [官网](https://wellapi.ai/register?aff=ZIgz) | 500+ 种大模型，按量计费，1 元起充。覆盖 OpenAI / Anthropic / xAI 等 11+ 厂商，支持支付宝/微信/USDT。 | Claude, GPT, Gemini, DeepSeek +7 |
