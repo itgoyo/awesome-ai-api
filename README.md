@@ -43,6 +43,7 @@
 | Stability AI | [官网](https://brandstudio.com) | Stability AI 官方平台，Stable Diffusion系列模型首选。图片生成质量高，但价格相对较高。 | SDXL-Turbo, SD3-Medium, Stable Diffusion |
 | TimiCC | [官网](https://timicc.com/register?ref=7PPP7SWM) | HelpAIO收录，可用率99.27%，Opus倍率1.50x | - |
 | 灵艺 API | [官网](https://api.lingyaai.cn/register?aff=ahEC) | 价格偏高的中转站，稳定性一般。用户反馈有限，建议先小量测试。 | GPT-4o, Claude-3.5-Sonnet, DeepSeek-V3 |
+| Shannon API | [官网](https://shannonapi.xyz/) | OpenAI 兼容的多模型聚合网关，单密钥接入 GPT / Claude / Gemini / DeepSeek / GLM / Kimi / Grok / MiniMax。模型广场免登录公开分组倍率，充值 1:1（¥1 记 $1），支持支付宝/微信/银行卡/USDT，控制台可查余额与逐次用量。 | GPT, Claude, Gemini, DeepSeek, GLM, Kimi, Grok, MiniMax |
 | Together AI | [官网](https://www.together.ai/) | 专注开源大模型的全球平台，拥有Llama 3.1 405B等超大模型的支持。价格透明，稳定性高，但国内访问速度不稳定。 | Llama-3.1-405B, Llama-3.1-70B, Qwen-2.5-72B, DeepSeek-V3 +1 |
 
 ---
