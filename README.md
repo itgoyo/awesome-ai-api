@@ -37,6 +37,7 @@
 | Groq | [官网](https://groq.com/) | 全球知名AI推理平台，以极低延迟著称。Llama 3.1 70B 价格极具竞争力，适合对延迟敏感的场景。 | Llama-3.1-70B, Llama-3.1-8B, Mixtral-8x7B, Gemma-2-9B |
 | N1N.ai | [官网](https://api.n1n.ai/register?aff=V0qn) | 价格有竞争力，特别是 Claude 3.5 价格较低。稳定性数据中等，速度一般。 | GPT-4o, Claude-3.5-Sonnet, DeepSeek-V3 |
 | OpenI大模型中转站 | [官网](https://ai123.one/register?aff=sjmf) | 价格偏高，稳定性差。近期有用户反馈充值不到账，谨慎选择。 | GPT-4o, Claude-3.5-Sonnet, DeepSeek-V3 |
+| SandBase | [官网](https://www.sandbase.ai/) | 一个 API 密钥调用多家模型，聊天接口兼容 OpenAI SDK；同时提供图像、视频生成和数据 API，按用量计费。 | GPT、Claude、Gemini、DeepSeek |
 | OpenRouter | [官网](https://openrouter.ai) | 全球最大的AI模型聚合平台之一，模型最全，支持几乎所有主流模型。国内访问速度不稳定，需要科学上网。 | GPT-4o, GPT-4o-mini, Claude-3.5-Sonnet, Claude-3.5-Haiku +3 |
 | Replicate | [官网](https://replicate.com) | 全球知名开源模型平台，支持大量开源模型。图片生成和LLM都有覆盖，国内访问速度一般。 | Llama-3-70B, SDXL, FLUX, DeepSeek-V3 |
 | SiliconFlow（硅基流动） | [官网](https://cloud.siliconflow.cn/i/pkciFhiI) | 国内知名AI平台，拥有多个开源大模型的低价调用渠道，特别适合调用国产模型（Qwen、DeepSeek、GLM等）。有免费额度。 | Qwen/Qwen2.5-72B-Instruct, Qwen/Qwen2.5-32B-Instruct, DeepSeek-V3, DeepSeek-V2.5 |
