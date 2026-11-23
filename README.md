@@ -44,6 +44,7 @@
 | TimiCC | [官网](https://timicc.com/register?ref=7PPP7SWM) | HelpAIO收录，可用率99.27%，Opus倍率1.50x | - |
 | 灵艺 API | [官网](https://api.lingyaai.cn/register?aff=ahEC) | 价格偏高的中转站，稳定性一般。用户反馈有限，建议先小量测试。 | GPT-4o, Claude-3.5-Sonnet, DeepSeek-V3 |
 | Together AI | [官网](https://www.together.ai/) | 专注开源大模型的全球平台，拥有Llama 3.1 405B等超大模型的支持。价格透明，稳定性高，但国内访问速度不稳定。 | Llama-3.1-405B, Llama-3.1-70B, Qwen-2.5-72B, DeepSeek-V3 +1 |
+| LinkAGI | [官网](https://api.linktoagi.com) | 独立第三方 API 中转服务，按量计费；各模型的可用分组和单价可在[价格页](https://api.linktoagi.com/pricing)查看。 | GPT、Claude、Gemini、DeepSeek、Grok、GLM |
 
 ---
 
